@@ -1,0 +1,11 @@
+C:\Users\Daniel Valev\Desktop\C#\02. C# Conditional Statements and Loops 17.05\Exercises\05. Word in Plural\bin\Debug\netcoreapp2.0\05. Word in Plural.deps.json
+C:\Users\Daniel Valev\Desktop\C#\02. C# Conditional Statements and Loops 17.05\Exercises\05. Word in Plural\bin\Debug\netcoreapp2.0\05. Word in Plural.runtimeconfig.json
+C:\Users\Daniel Valev\Desktop\C#\02. C# Conditional Statements and Loops 17.05\Exercises\05. Word in Plural\bin\Debug\netcoreapp2.0\05. Word in Plural.runtimeconfig.dev.json
+C:\Users\Daniel Valev\Desktop\C#\02. C# Conditional Statements and Loops 17.05\Exercises\05. Word in Plural\bin\Debug\netcoreapp2.0\05. Word in Plural.dll
+C:\Users\Daniel Valev\Desktop\C#\02. C# Conditional Statements and Loops 17.05\Exercises\05. Word in Plural\bin\Debug\netcoreapp2.0\05. Word in Plural.pdb
+C:\Users\Daniel Valev\Desktop\C#\02. C# Conditional Statements and Loops 17.05\Exercises\05. Word in Plural\obj\Debug\netcoreapp2.0\05. Word in Plural.csprojAssemblyReference.cache
+C:\Users\Daniel Valev\Desktop\C#\02. C# Conditional Statements and Loops 17.05\Exercises\05. Word in Plural\obj\Debug\netcoreapp2.0\05. Word in Plural.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Valev\Desktop\C#\02. C# Conditional Statements and Loops 17.05\Exercises\05. Word in Plural\obj\Debug\netcoreapp2.0\05. Word in Plural.AssemblyInfoInputs.cache
+C:\Users\Daniel Valev\Desktop\C#\02. C# Conditional Statements and Loops 17.05\Exercises\05. Word in Plural\obj\Debug\netcoreapp2.0\05. Word in Plural.AssemblyInfo.cs
+C:\Users\Daniel Valev\Desktop\C#\02. C# Conditional Statements and Loops 17.05\Exercises\05. Word in Plural\obj\Debug\netcoreapp2.0\05. Word in Plural.dll
+C:\Users\Daniel Valev\Desktop\C#\02. C# Conditional Statements and Loops 17.05\Exercises\05. Word in Plural\obj\Debug\netcoreapp2.0\05. Word in Plural.pdb

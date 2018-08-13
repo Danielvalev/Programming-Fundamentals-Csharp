@@ -1,0 +1,11 @@
+C:\Users\Daniel Valev\Desktop\C#\02. C# Conditional Statements and Loops 17.05\Exercises\03. Restaurant Discount\bin\Debug\netcoreapp2.0\03. Restaurant Discount.deps.json
+C:\Users\Daniel Valev\Desktop\C#\02. C# Conditional Statements and Loops 17.05\Exercises\03. Restaurant Discount\bin\Debug\netcoreapp2.0\03. Restaurant Discount.runtimeconfig.json
+C:\Users\Daniel Valev\Desktop\C#\02. C# Conditional Statements and Loops 17.05\Exercises\03. Restaurant Discount\bin\Debug\netcoreapp2.0\03. Restaurant Discount.runtimeconfig.dev.json
+C:\Users\Daniel Valev\Desktop\C#\02. C# Conditional Statements and Loops 17.05\Exercises\03. Restaurant Discount\bin\Debug\netcoreapp2.0\03. Restaurant Discount.dll
+C:\Users\Daniel Valev\Desktop\C#\02. C# Conditional Statements and Loops 17.05\Exercises\03. Restaurant Discount\bin\Debug\netcoreapp2.0\03. Restaurant Discount.pdb
+C:\Users\Daniel Valev\Desktop\C#\02. C# Conditional Statements and Loops 17.05\Exercises\03. Restaurant Discount\obj\Debug\netcoreapp2.0\03. Restaurant Discount.csprojAssemblyReference.cache
+C:\Users\Daniel Valev\Desktop\C#\02. C# Conditional Statements and Loops 17.05\Exercises\03. Restaurant Discount\obj\Debug\netcoreapp2.0\03. Restaurant Discount.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Valev\Desktop\C#\02. C# Conditional Statements and Loops 17.05\Exercises\03. Restaurant Discount\obj\Debug\netcoreapp2.0\03. Restaurant Discount.AssemblyInfoInputs.cache
+C:\Users\Daniel Valev\Desktop\C#\02. C# Conditional Statements and Loops 17.05\Exercises\03. Restaurant Discount\obj\Debug\netcoreapp2.0\03. Restaurant Discount.AssemblyInfo.cs
+C:\Users\Daniel Valev\Desktop\C#\02. C# Conditional Statements and Loops 17.05\Exercises\03. Restaurant Discount\obj\Debug\netcoreapp2.0\03. Restaurant Discount.dll
+C:\Users\Daniel Valev\Desktop\C#\02. C# Conditional Statements and Loops 17.05\Exercises\03. Restaurant Discount\obj\Debug\netcoreapp2.0\03. Restaurant Discount.pdb
