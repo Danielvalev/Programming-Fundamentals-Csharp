@@ -1,0 +1,10 @@
+C:\Users\Daniel Valev\Desktop\C#\03. C# Data Types And Variables 21.05\DataTypeAndVariables\05. Special Numbers\bin\Debug\netcoreapp2.0\05. Special Numbers.deps.json
+C:\Users\Daniel Valev\Desktop\C#\03. C# Data Types And Variables 21.05\DataTypeAndVariables\05. Special Numbers\bin\Debug\netcoreapp2.0\05. Special Numbers.runtimeconfig.json
+C:\Users\Daniel Valev\Desktop\C#\03. C# Data Types And Variables 21.05\DataTypeAndVariables\05. Special Numbers\bin\Debug\netcoreapp2.0\05. Special Numbers.runtimeconfig.dev.json
+C:\Users\Daniel Valev\Desktop\C#\03. C# Data Types And Variables 21.05\DataTypeAndVariables\05. Special Numbers\bin\Debug\netcoreapp2.0\05. Special Numbers.dll
+C:\Users\Daniel Valev\Desktop\C#\03. C# Data Types And Variables 21.05\DataTypeAndVariables\05. Special Numbers\bin\Debug\netcoreapp2.0\05. Special Numbers.pdb
+C:\Users\Daniel Valev\Desktop\C#\03. C# Data Types And Variables 21.05\DataTypeAndVariables\05. Special Numbers\obj\Debug\netcoreapp2.0\05. Special Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Valev\Desktop\C#\03. C# Data Types And Variables 21.05\DataTypeAndVariables\05. Special Numbers\obj\Debug\netcoreapp2.0\05. Special Numbers.AssemblyInfoInputs.cache
+C:\Users\Daniel Valev\Desktop\C#\03. C# Data Types And Variables 21.05\DataTypeAndVariables\05. Special Numbers\obj\Debug\netcoreapp2.0\05. Special Numbers.AssemblyInfo.cs
+C:\Users\Daniel Valev\Desktop\C#\03. C# Data Types And Variables 21.05\DataTypeAndVariables\05. Special Numbers\obj\Debug\netcoreapp2.0\05. Special Numbers.dll
+C:\Users\Daniel Valev\Desktop\C#\03. C# Data Types And Variables 21.05\DataTypeAndVariables\05. Special Numbers\obj\Debug\netcoreapp2.0\05. Special Numbers.pdb
