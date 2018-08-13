@@ -1,0 +1,11 @@
+C:\Users\Daniel Valev\Desktop\C#\03. C# Data Types And Variables 21.05\Exercises\01. Practice Integer Numbers\bin\Debug\netcoreapp2.0\01. Practice Integer Numbers.deps.json
+C:\Users\Daniel Valev\Desktop\C#\03. C# Data Types And Variables 21.05\Exercises\01. Practice Integer Numbers\bin\Debug\netcoreapp2.0\01. Practice Integer Numbers.runtimeconfig.json
+C:\Users\Daniel Valev\Desktop\C#\03. C# Data Types And Variables 21.05\Exercises\01. Practice Integer Numbers\bin\Debug\netcoreapp2.0\01. Practice Integer Numbers.runtimeconfig.dev.json
+C:\Users\Daniel Valev\Desktop\C#\03. C# Data Types And Variables 21.05\Exercises\01. Practice Integer Numbers\bin\Debug\netcoreapp2.0\01. Practice Integer Numbers.dll
+C:\Users\Daniel Valev\Desktop\C#\03. C# Data Types And Variables 21.05\Exercises\01. Practice Integer Numbers\bin\Debug\netcoreapp2.0\01. Practice Integer Numbers.pdb
+C:\Users\Daniel Valev\Desktop\C#\03. C# Data Types And Variables 21.05\Exercises\01. Practice Integer Numbers\obj\Debug\netcoreapp2.0\01. Practice Integer Numbers.csprojAssemblyReference.cache
+C:\Users\Daniel Valev\Desktop\C#\03. C# Data Types And Variables 21.05\Exercises\01. Practice Integer Numbers\obj\Debug\netcoreapp2.0\01. Practice Integer Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Valev\Desktop\C#\03. C# Data Types And Variables 21.05\Exercises\01. Practice Integer Numbers\obj\Debug\netcoreapp2.0\01. Practice Integer Numbers.AssemblyInfoInputs.cache
+C:\Users\Daniel Valev\Desktop\C#\03. C# Data Types And Variables 21.05\Exercises\01. Practice Integer Numbers\obj\Debug\netcoreapp2.0\01. Practice Integer Numbers.AssemblyInfo.cs
+C:\Users\Daniel Valev\Desktop\C#\03. C# Data Types And Variables 21.05\Exercises\01. Practice Integer Numbers\obj\Debug\netcoreapp2.0\01. Practice Integer Numbers.dll
+C:\Users\Daniel Valev\Desktop\C#\03. C# Data Types And Variables 21.05\Exercises\01. Practice Integer Numbers\obj\Debug\netcoreapp2.0\01. Practice Integer Numbers.pdb
