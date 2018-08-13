@@ -1,0 +1,11 @@
+C:\Users\Daniel Valev\Desktop\C#\03. C# Data Types And Variables 21.05\DataTypeAndVariables\07. Greeting\bin\Debug\netcoreapp2.0\07. Greeting.deps.json
+C:\Users\Daniel Valev\Desktop\C#\03. C# Data Types And Variables 21.05\DataTypeAndVariables\07. Greeting\bin\Debug\netcoreapp2.0\07. Greeting.runtimeconfig.json
+C:\Users\Daniel Valev\Desktop\C#\03. C# Data Types And Variables 21.05\DataTypeAndVariables\07. Greeting\bin\Debug\netcoreapp2.0\07. Greeting.runtimeconfig.dev.json
+C:\Users\Daniel Valev\Desktop\C#\03. C# Data Types And Variables 21.05\DataTypeAndVariables\07. Greeting\bin\Debug\netcoreapp2.0\07. Greeting.dll
+C:\Users\Daniel Valev\Desktop\C#\03. C# Data Types And Variables 21.05\DataTypeAndVariables\07. Greeting\bin\Debug\netcoreapp2.0\07. Greeting.pdb
+C:\Users\Daniel Valev\Desktop\C#\03. C# Data Types And Variables 21.05\DataTypeAndVariables\07. Greeting\obj\Debug\netcoreapp2.0\07. Greeting.csprojAssemblyReference.cache
+C:\Users\Daniel Valev\Desktop\C#\03. C# Data Types And Variables 21.05\DataTypeAndVariables\07. Greeting\obj\Debug\netcoreapp2.0\07. Greeting.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Valev\Desktop\C#\03. C# Data Types And Variables 21.05\DataTypeAndVariables\07. Greeting\obj\Debug\netcoreapp2.0\07. Greeting.AssemblyInfoInputs.cache
+C:\Users\Daniel Valev\Desktop\C#\03. C# Data Types And Variables 21.05\DataTypeAndVariables\07. Greeting\obj\Debug\netcoreapp2.0\07. Greeting.AssemblyInfo.cs
+C:\Users\Daniel Valev\Desktop\C#\03. C# Data Types And Variables 21.05\DataTypeAndVariables\07. Greeting\obj\Debug\netcoreapp2.0\07. Greeting.dll
+C:\Users\Daniel Valev\Desktop\C#\03. C# Data Types And Variables 21.05\DataTypeAndVariables\07. Greeting\obj\Debug\netcoreapp2.0\07. Greeting.pdb
