@@ -1,0 +1,11 @@
+C:\Users\Daniel Valev\Desktop\C#\01. C# Intro And Basic Syntax 14.05\02. Rectangle Area\02. Rectangle Area\bin\Debug\netcoreapp2.0\02. Rectangle Area.deps.json
+C:\Users\Daniel Valev\Desktop\C#\01. C# Intro And Basic Syntax 14.05\02. Rectangle Area\02. Rectangle Area\bin\Debug\netcoreapp2.0\02. Rectangle Area.runtimeconfig.json
+C:\Users\Daniel Valev\Desktop\C#\01. C# Intro And Basic Syntax 14.05\02. Rectangle Area\02. Rectangle Area\bin\Debug\netcoreapp2.0\02. Rectangle Area.runtimeconfig.dev.json
+C:\Users\Daniel Valev\Desktop\C#\01. C# Intro And Basic Syntax 14.05\02. Rectangle Area\02. Rectangle Area\bin\Debug\netcoreapp2.0\02. Rectangle Area.dll
+C:\Users\Daniel Valev\Desktop\C#\01. C# Intro And Basic Syntax 14.05\02. Rectangle Area\02. Rectangle Area\bin\Debug\netcoreapp2.0\02. Rectangle Area.pdb
+C:\Users\Daniel Valev\Desktop\C#\01. C# Intro And Basic Syntax 14.05\02. Rectangle Area\02. Rectangle Area\obj\Debug\netcoreapp2.0\02. Rectangle Area.csprojAssemblyReference.cache
+C:\Users\Daniel Valev\Desktop\C#\01. C# Intro And Basic Syntax 14.05\02. Rectangle Area\02. Rectangle Area\obj\Debug\netcoreapp2.0\02. Rectangle Area.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Valev\Desktop\C#\01. C# Intro And Basic Syntax 14.05\02. Rectangle Area\02. Rectangle Area\obj\Debug\netcoreapp2.0\02. Rectangle Area.AssemblyInfoInputs.cache
+C:\Users\Daniel Valev\Desktop\C#\01. C# Intro And Basic Syntax 14.05\02. Rectangle Area\02. Rectangle Area\obj\Debug\netcoreapp2.0\02. Rectangle Area.AssemblyInfo.cs
+C:\Users\Daniel Valev\Desktop\C#\01. C# Intro And Basic Syntax 14.05\02. Rectangle Area\02. Rectangle Area\obj\Debug\netcoreapp2.0\02. Rectangle Area.dll
+C:\Users\Daniel Valev\Desktop\C#\01. C# Intro And Basic Syntax 14.05\02. Rectangle Area\02. Rectangle Area\obj\Debug\netcoreapp2.0\02. Rectangle Area.pdb

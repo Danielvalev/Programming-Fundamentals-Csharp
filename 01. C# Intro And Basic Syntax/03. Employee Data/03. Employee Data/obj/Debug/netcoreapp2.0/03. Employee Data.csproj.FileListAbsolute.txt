@@ -1,0 +1,10 @@
+C:\Users\Daniel Valev\Desktop\C#\01. C# Intro And Basic Syntax 14.05\03. Employee Data\03. Employee Data\bin\Debug\netcoreapp2.0\03. Employee Data.deps.json
+C:\Users\Daniel Valev\Desktop\C#\01. C# Intro And Basic Syntax 14.05\03. Employee Data\03. Employee Data\bin\Debug\netcoreapp2.0\03. Employee Data.runtimeconfig.json
+C:\Users\Daniel Valev\Desktop\C#\01. C# Intro And Basic Syntax 14.05\03. Employee Data\03. Employee Data\bin\Debug\netcoreapp2.0\03. Employee Data.runtimeconfig.dev.json
+C:\Users\Daniel Valev\Desktop\C#\01. C# Intro And Basic Syntax 14.05\03. Employee Data\03. Employee Data\bin\Debug\netcoreapp2.0\03. Employee Data.dll
+C:\Users\Daniel Valev\Desktop\C#\01. C# Intro And Basic Syntax 14.05\03. Employee Data\03. Employee Data\bin\Debug\netcoreapp2.0\03. Employee Data.pdb
+C:\Users\Daniel Valev\Desktop\C#\01. C# Intro And Basic Syntax 14.05\03. Employee Data\03. Employee Data\obj\Debug\netcoreapp2.0\03. Employee Data.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Valev\Desktop\C#\01. C# Intro And Basic Syntax 14.05\03. Employee Data\03. Employee Data\obj\Debug\netcoreapp2.0\03. Employee Data.AssemblyInfoInputs.cache
+C:\Users\Daniel Valev\Desktop\C#\01. C# Intro And Basic Syntax 14.05\03. Employee Data\03. Employee Data\obj\Debug\netcoreapp2.0\03. Employee Data.AssemblyInfo.cs
+C:\Users\Daniel Valev\Desktop\C#\01. C# Intro And Basic Syntax 14.05\03. Employee Data\03. Employee Data\obj\Debug\netcoreapp2.0\03. Employee Data.dll
+C:\Users\Daniel Valev\Desktop\C#\01. C# Intro And Basic Syntax 14.05\03. Employee Data\03. Employee Data\obj\Debug\netcoreapp2.0\03. Employee Data.pdb

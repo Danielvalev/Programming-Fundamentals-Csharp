@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Beverage Labels", "04. Beverage Labels\04. Beverage Labels.csproj", "{DCDC2D71-ABB6-41E1-A533-7E6404AF73A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCDC2D71-ABB6-41E1-A533-7E6404AF73A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCDC2D71-ABB6-41E1-A533-7E6404AF73A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCDC2D71-ABB6-41E1-A533-7E6404AF73A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCDC2D71-ABB6-41E1-A533-7E6404AF73A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E994B634-E913-4803-A9F5-3F4D400151B7}
+	EndGlobalSection
+EndGlobal

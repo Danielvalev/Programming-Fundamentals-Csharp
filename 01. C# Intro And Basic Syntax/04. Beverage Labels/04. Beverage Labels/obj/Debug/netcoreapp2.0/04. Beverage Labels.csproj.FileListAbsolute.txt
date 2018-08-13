@@ -1,0 +1,11 @@
+C:\Users\Daniel Valev\Desktop\C#\01. C# Intro And Basic Syntax 14.05\04. Beverage Labels\04. Beverage Labels\obj\Debug\netcoreapp2.0\04. Beverage Labels.csprojAssemblyReference.cache
+C:\Users\Daniel Valev\Desktop\C#\01. C# Intro And Basic Syntax 14.05\04. Beverage Labels\04. Beverage Labels\obj\Debug\netcoreapp2.0\04. Beverage Labels.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Valev\Desktop\C#\01. C# Intro And Basic Syntax 14.05\04. Beverage Labels\04. Beverage Labels\obj\Debug\netcoreapp2.0\04. Beverage Labels.AssemblyInfoInputs.cache
+C:\Users\Daniel Valev\Desktop\C#\01. C# Intro And Basic Syntax 14.05\04. Beverage Labels\04. Beverage Labels\obj\Debug\netcoreapp2.0\04. Beverage Labels.AssemblyInfo.cs
+C:\Users\Daniel Valev\Desktop\C#\01. C# Intro And Basic Syntax 14.05\04. Beverage Labels\04. Beverage Labels\bin\Debug\netcoreapp2.0\04. Beverage Labels.deps.json
+C:\Users\Daniel Valev\Desktop\C#\01. C# Intro And Basic Syntax 14.05\04. Beverage Labels\04. Beverage Labels\bin\Debug\netcoreapp2.0\04. Beverage Labels.runtimeconfig.json
+C:\Users\Daniel Valev\Desktop\C#\01. C# Intro And Basic Syntax 14.05\04. Beverage Labels\04. Beverage Labels\bin\Debug\netcoreapp2.0\04. Beverage Labels.runtimeconfig.dev.json
+C:\Users\Daniel Valev\Desktop\C#\01. C# Intro And Basic Syntax 14.05\04. Beverage Labels\04. Beverage Labels\bin\Debug\netcoreapp2.0\04. Beverage Labels.dll
+C:\Users\Daniel Valev\Desktop\C#\01. C# Intro And Basic Syntax 14.05\04. Beverage Labels\04. Beverage Labels\bin\Debug\netcoreapp2.0\04. Beverage Labels.pdb
+C:\Users\Daniel Valev\Desktop\C#\01. C# Intro And Basic Syntax 14.05\04. Beverage Labels\04. Beverage Labels\obj\Debug\netcoreapp2.0\04. Beverage Labels.dll
+C:\Users\Daniel Valev\Desktop\C#\01. C# Intro And Basic Syntax 14.05\04. Beverage Labels\04. Beverage Labels\obj\Debug\netcoreapp2.0\04. Beverage Labels.pdb
