@@ -1,0 +1,11 @@
+C:\Users\Daniel Valev\Desktop\C#\06. C# Lists 04.05\Exercises\03. Search for a Number\bin\Debug\netcoreapp2.0\03. Search for a Number.deps.json
+C:\Users\Daniel Valev\Desktop\C#\06. C# Lists 04.05\Exercises\03. Search for a Number\bin\Debug\netcoreapp2.0\03. Search for a Number.runtimeconfig.json
+C:\Users\Daniel Valev\Desktop\C#\06. C# Lists 04.05\Exercises\03. Search for a Number\bin\Debug\netcoreapp2.0\03. Search for a Number.runtimeconfig.dev.json
+C:\Users\Daniel Valev\Desktop\C#\06. C# Lists 04.05\Exercises\03. Search for a Number\bin\Debug\netcoreapp2.0\03. Search for a Number.dll
+C:\Users\Daniel Valev\Desktop\C#\06. C# Lists 04.05\Exercises\03. Search for a Number\bin\Debug\netcoreapp2.0\03. Search for a Number.pdb
+C:\Users\Daniel Valev\Desktop\C#\06. C# Lists 04.05\Exercises\03. Search for a Number\obj\Debug\netcoreapp2.0\03. Search for a Number.csprojAssemblyReference.cache
+C:\Users\Daniel Valev\Desktop\C#\06. C# Lists 04.05\Exercises\03. Search for a Number\obj\Debug\netcoreapp2.0\03. Search for a Number.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Valev\Desktop\C#\06. C# Lists 04.05\Exercises\03. Search for a Number\obj\Debug\netcoreapp2.0\03. Search for a Number.AssemblyInfoInputs.cache
+C:\Users\Daniel Valev\Desktop\C#\06. C# Lists 04.05\Exercises\03. Search for a Number\obj\Debug\netcoreapp2.0\03. Search for a Number.AssemblyInfo.cs
+C:\Users\Daniel Valev\Desktop\C#\06. C# Lists 04.05\Exercises\03. Search for a Number\obj\Debug\netcoreapp2.0\03. Search for a Number.dll
+C:\Users\Daniel Valev\Desktop\C#\06. C# Lists 04.05\Exercises\03. Search for a Number\obj\Debug\netcoreapp2.0\03. Search for a Number.pdb
